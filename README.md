@@ -2,11 +2,6 @@
 
 Beyond Words: Unveiling Emotions through Speech! Journey with me into the realms of AI-powered emotion recognition using Python. Together, we redefine human-computer interaction!
 
-Phase II:
-Golden Task: Speech Emotion Recognition
-DataSet: Kaggle
-CodersCave
-
 Decode Emotions with AI: Witness the Beauty of Speech Emotion Recognition! Step into the world of Python code and witness emotions translated into data insights!
 
 In this thrilling project, I explored the fascinating domain of Speech Emotion Recognition, using cutting-edge Python libraries to process audio data and analyze emotions.
